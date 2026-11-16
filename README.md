@@ -153,6 +153,12 @@ A debt statement, shared to WhatsApp in one tap:
 Kotlin, Jetpack Compose and Material 3, Room, Hilt, coroutines, and on-device ML Kit text
 recognition. Offline-first: no account, no server, no analytics.
 
+## Technical report
+
+How Rafu works inside, from payment-message matching to phone-to-phone sync:
+Ahmed, S. (2026). *Rafu: An Offline-First Ledger for Small Shops with Privacy-Preserving Mobile-Money
+Reconciliation.* Technical report. Zenodo. [doi.org/10.5281/zenodo.24293289](https://doi.org/10.5281/zenodo.24293289)
+
 ## Privacy
 
 - Everything stays on the device. There is no account, no server and no analytics.
